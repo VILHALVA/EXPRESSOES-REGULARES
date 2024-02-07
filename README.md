@@ -6,7 +6,7 @@
 <img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
 <img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
 
-## CONCEITO:
+## DESCRIÇÃO:
 Este aplicativo é um conjunto de formulários para validar diferentes tipos de dados usando expressões regulares. Aqui está uma descrição detalhada do que cada parte do aplicativo faz:
 
 1. **Data (A):** Este campo é destinado para inserir uma data no formato "dd/mm/aaaa". A função `regexa()` valida se o valor inserido corresponde a este padrão.
