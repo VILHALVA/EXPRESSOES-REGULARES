@@ -1,7 +1,10 @@
 # EXPRESSÕES REGULARES
 👨‍⚖️EXPRESSÕES REGULARES, TAMBÉM CONHECIDAS COMO REGEX, SÃO PADRÕES DE BUSCA UTILIZADOS EM LINGUAGENS DE PROGRAMAÇÃO PARA ENCONTRAR DETERMINADOS PADRÕES DE TEXTO. 
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 Este aplicativo é um conjunto de formulários para validar diferentes tipos de dados usando expressões regulares. Aqui está uma descrição detalhada do que cada parte do aplicativo faz:
