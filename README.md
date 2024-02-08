@@ -80,7 +80,7 @@ unzip EXPRESSOES-REGULARES.zip
 * [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
-## CREDITOS:
+## SUBSÍDIOS:
 - [CLIQUE AQUI PARA ACESSAR AO MINICURSO](./MINICURSO.md)
 - [ESSE MINICURSO FOI EDITADO E ADAPTADO PELO VILHALVA](https://github.com/VILHALVA)
 - [CÓDIGO ORIGINAL FOI COPIADO DE "RYANNMAGALHAES"](https://github.com/RyannMagalhaes/REGEX)
