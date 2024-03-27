@@ -39,27 +39,7 @@ Este aplicativo é um conjunto de formulários para validar diferentes tipos de 
 
 Cada função de validação utiliza uma expressão regular correspondente para verificar se o valor inserido pelo usuário está de acordo com o padrão esperado. Se o valor estiver correto, uma mensagem de sucesso é exibida, caso contrário, uma mensagem de erro é exibida.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/EXPRESSOES-REGULARES.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd EXPRESSOES-REGULARES
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip EXPRESSOES-REGULARES.zip
-``` 
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Abra o arquivo `CODIGO.html` em seu navegador de preferência.
 
 2. **Interaja com o formulário:** Após abrir o arquivo HTML, você verá um conjunto de campos de entrada e botões "Validar". Insira os dados nos campos de entrada conforme desejado.
@@ -76,9 +56,9 @@ unzip EXPRESSOES-REGULARES.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## SUBSÍDIOS:
 - [CLIQUE AQUI PARA ACESSAR AO MINICURSO](./MINICURSO.md)
